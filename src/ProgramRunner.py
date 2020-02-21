@@ -1,7 +1,7 @@
 import pygame
 
-from src.Logger import debug
-from src.BounceIo import bounce_io_debug
+from src.utils.Logger import debug
+from src.games.bounceIO.BounceIo import bounce_io_debug
 RED = (255, 0, 0)
 BLUE = (0, 0, 255)
 WHITE = (255, 255, 255)
